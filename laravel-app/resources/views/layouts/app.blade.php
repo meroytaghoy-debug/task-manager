@@ -48,7 +48,7 @@
 <body>
     <nav class="navbar navbar-dark" style="background-color:#2f3b6e;">
         <div class="container">
-            <a class="navbar-brand" href="{{ route('tasks.index') }}">📋 Personal Task Manager</a>
+            <a class="navbar-brand" href="{{ route('tasks.index') }}"> Personal Task Manager</a>
         </div>
     </nav>
 
