@@ -32,4 +32,5 @@ Database Used: SQLite
 
 ## Screenshots
 
-_Add screenshots of your running app here._
+_Add screenshots of your running app here._<img width="736" height="392" alt="image" src="https://github.com/user-attachments/assets/4b813e85-b643-41ee-88d7-eaf02b4f84d8" />
+
