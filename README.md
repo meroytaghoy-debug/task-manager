@@ -1,9 +1,13 @@
 # Personal Task Manager (Laravel Mini Project)
 
 Project Code: WST21-PM-2026-SF
+
 Student Name: Xavier Ammeer Q, Taghoy
+
 Course & Year: BSIT 2
+
 Database Used: SQLite
+
 
 ## Features
 - Add Task
